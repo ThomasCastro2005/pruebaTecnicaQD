@@ -15,7 +15,7 @@ El almacenamiento en memoria (JavaScript `Map`) fue una decisión deliberada par
 ---
 ## Video de Sustentación
 
-[![Video de Sustentación](https://img.youtube.com/vi/vReZvNm1X20/0.jpg)](https://youtu.be/vReZvNm1X20)
+[Ver video de sustentación aquí](https://youtu.be/vReZvNm1X20)
 
 ## Cómo correr el proyecto
 
