@@ -1,4 +1,4 @@
-# FSistema de Telemetría GPS
+# Sistema de Telemetría GPS
 
 Prototipo funcional de un sistema de monitoreo de flotas GPS en tiempo real. Recibe coordenadas de vehículos, determina su estado (En movimiento / Detenido / Sin señal) y los muestra en un panel web con mapa interactivo.
 
