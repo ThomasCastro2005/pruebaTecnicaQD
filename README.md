@@ -1,4 +1,4 @@
-# Fleet Tracker — Sistema de Telemetría GPS
+# FSistema de Telemetría GPS
 
 Prototipo funcional de un sistema de monitoreo de flotas GPS en tiempo real. Recibe coordenadas de vehículos, determina su estado (En movimiento / Detenido / Sin señal) y los muestra en un panel web con mapa interactivo.
 
@@ -13,6 +13,9 @@ Dentro del backend y el frontend, el código está organizado por módulo (featu
 El almacenamiento en memoria (JavaScript `Map`) fue una decisión deliberada para esta prueba: elimina la fricción de configurar una base de datos, es suficiente para demostrar la lógica de negocio, y es lo que el enunciado permite. En producción, esto se reemplazaría por Redis para cache y PostgreSQL/Mongo para persistencia.
 
 ---
+## Video de Sustentación
+
+[![Video de Sustentación](https://img.youtube.com/vi/vReZvNm1X20/0.jpg)](https://youtu.be/vReZvNm1X20)
 
 ## Cómo correr el proyecto
 
