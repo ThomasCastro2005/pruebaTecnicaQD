@@ -78,7 +78,3 @@ La IA generó la estructura inicial de archivos y el scaffolding de cada módulo
 La IA generó inicialmente el componente `VehicleMap` sin el import dinámico de Next.js (`dynamic`), lo que causaba un error en el servidor porque Leaflet intenta acceder a `window` en tiempo de renderizado SSR. Lo corregí envolviendo el import en `dynamic(() => import(...), { ssr: false })` desde el Dashboard, que es el patrón correcto para librerías que no soportan renderizado en servidor.
 
 ---
-
-## Video de sustentación
-
-[Enlace de YouTube aquí]
